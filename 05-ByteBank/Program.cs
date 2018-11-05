@@ -23,6 +23,7 @@ namespace _05_ByteBank
             conta.agencia = 563;
             conta.numero = 5634527;
 
+            conta.titular.nome = "Gabriela costa!";
             Console.WriteLine(gabriela.nome);
             Console.WriteLine(conta.titular.nome);
 
